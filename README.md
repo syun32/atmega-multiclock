@@ -1,4 +1,4 @@
-# multiclock
+# ulticlock
 ATmega128 project
 
 # 4개의 기능을 가진 다기능시계
